@@ -8,7 +8,7 @@
 - 📊 Simplified result tracking
 
 ## How to Run
-1. Clone the repository: git clone https://github.com/your-username/online-voting-system.git
+1. Clone the repository: git clone https://github.com/sauravraj1412/online-voting-system.git
 2. Open terminal/cmd and navigate to the project folder.
 3. Run the program: python voting_system.py
 
